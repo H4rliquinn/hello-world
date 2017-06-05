@@ -1,3 +1,3 @@
 # hello-world
 First Repos
-Wassup Giters
+I'm not really impresed with this tutorial
